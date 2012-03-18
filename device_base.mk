@@ -101,6 +101,12 @@ PRODUCT_PACKAGES += \
 	audio.a2dp.default \
 	libs3cjpeg
 
+# for bugmailer
+PRODUCT_PACKAGES += send_bug
+PRODUCT_COPY_FILES += \
+	system/extras/bugmailer/bugmailer.sh:system/bin/bugmailer.sh \
+	system/extras/bugmailer/send_bug:system/bin/send_bug
+
 # Libs
 PRODUCT_PACKAGES += \
 	libstagefrighthw
