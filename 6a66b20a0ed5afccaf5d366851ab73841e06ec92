@@ -1,0 +1,9 @@
+Change-Id: I6a66b20a0ed5afccaf5d366851ab73841e06ec92
+Code-Review+2: Roman Birg <romanbirg@gmail.com>
+Verified+1: Roman Birg <romanbirg@gmail.com>
+Code-Review+1: Jason Stewart <sixstringsg@exynos.co>
+Submitted-by: Roman Birg <romanbirg@gmail.com>
+Submitted-at: Mon, 21 May 2012 10:35:49 -0500
+Reviewed-on: http://gerrit.sudoservers.com/883
+Project: AOKP/device_samsung_aries-common
+Branch: refs/heads/ics
