@@ -31,6 +31,14 @@ ifeq ($(TARGET_DEVICE),fascinatemtd)
     LOCAL_CFLAGS += -DHAVE_FLASH
 endif
 
+ifeq ($(TARGET_DEVICE),mesmerizemtd)
+    LOCAL_CFLAGS += -DHAVE_FLASH
+endif
+
+ifeq ($(TARGET_DEVICE),showcasemtd)
+    LOCAL_CFLAGS += -DHAVE_FLASH
+endif
+
 include $(BUILD_SHARED_LIBRARY)
 
 endif
