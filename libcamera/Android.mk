@@ -27,15 +27,7 @@ ifdef BOARD_SECOND_CAMERA_DEVICE
     LOCAL_CFLAGS += -DFFC_PRESENT
 endif
 
-ifeq ($(TARGET_DEVICE),fascinatemtd)
-    LOCAL_CFLAGS += -DHAVE_FLASH
-endif
-
-ifeq ($(TARGET_DEVICE),mesmerizemtd)
-    LOCAL_CFLAGS += -DHAVE_FLASH
-endif
-
-ifeq ($(TARGET_DEVICE),showcasemtd)
+ifneq ($(filter fascinatemtd mesmerizemtd showcasemtd, $(TARGET_DEVICE)),)
     LOCAL_CFLAGS += -DHAVE_FLASH
 endif
 
