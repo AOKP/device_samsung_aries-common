@@ -1,0 +1,8 @@
+Change-Id: Ic5fe55ec80876464646d687792fdf7bfdf1b4dcd
+Code-Review+2: Jason Stewart (sixstringsg) <sixstringsg@exynos.co>
+Verified+1: Jason Stewart (sixstringsg) <sixstringsg@exynos.co>
+Submitted-by: Jason Stewart (sixstringsg) <sixstringsg@exynos.co>
+Submitted-at: Thu, 13 Sep 2012 01:00:25 +0100
+Reviewed-on: http://gerrit.sudoservers.com/3213
+Project: AOKP/device_samsung_aries-common
+Branch: refs/heads/jb
