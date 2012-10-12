@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nastavení Galaxy S</string>
+    <string name="category_screen_title">Obrazovka</string>
+    <string name="color_tuning_title_head">Nastavení barev</string>
+    <string name="color_tuning_summary_head">Kalibrovat barvy obrazovky</string>
+    <string name="color_red_title">Červená</string>
+    <string name="color_green_title">Zelená</string>
+    <string name="color_blue_title">Modrá</string>
+    <string name="color_red_gamma_title">Gama červené</string>
+    <string name="color_green_gamma_title">Gama zelená</string>
+    <string name="color_blue_gamma_title">Gama modrá</string>
+    <string name="mdnie_title_head">mDNIe režim</string>
+    <string name="mdnie_summary_head">Přizpůsobit mDNIe obrazový post-processing</string>
+    <string name="category_touchkey_title">Dotyková tlačítka</string>
+    <string name="backlight_timeout_title_head">Čas podsvícení</string>
+    <string name="backlight_timeout_summary_head">Přizpůsobit prodlevu před vypnutím podsvícení dotykových tlačítek</string>
+    <string name="category_radio_title">Radio</string>
+    <string name="hspa_title_head">HSPA</string>
+    <string name="hspa_summary_head">Zapnout HSDPA/HSUPA</string>
+    <string name="category_tvout_title">TV výstup</string>
+    <string name="tvout_enable_head">TV výstup</string>
+    <string name="tvout_enable_summary_nocable">TV kabel není připojen</string>
+    <string name="tvout_enable_summary">TV kabel připojen, zapnout označením</string>
+    <string name="tvout_enable_summary_on">TV výstup zapnut</string>
+    <string name="tvout_system_head">TV režim</string>
+    <string name="tvout_system_summary">Nastavit TV režim pro výstup</string>
+
+    <string name="category_volume_boost_title">Ovládání hlasitosti</string>
+    <string name="volume_boost_title_head">Ovládání hlasitosti při hovoru</string>
+    <string name="volume_boost_summary_head">Zesílání hlasitosti při hovoru</string>
+    <string name="boost_rcv_title">Hlasitost repordukturu u ucha</string>
+    <string name="boost_bt_title">Hlasitost Bluetooth</string>
+    <string name="boost_spk_title">Hlasitost reproduktoru</string>
+    <string name="boost_hp_title">Hlasitost sluchátek</string>
+    <string name="mic_rcv_title">Mikrofon u ucha</string>
+    <string name="mic_spk_title">Mikrofon v hlasitém režimu</string>
+    <string name="mic_hp_title">Mikrofon se sluchátky</string>
+    <string name="mic_hp_no_mic_title">Mikrofon se sluchýtky (bez mikrofonu)</string>
+
+    <string name="category_dock_audio_title">Audio v kolébce</string>
+    <string name="cardock_audio_title_head">Kolébka v autě</string>
+    <string name="cardock_audio_summary_on">Zapnout zvuk v auto-kolébce</string>
+    <string name="cardock_audio_summary_off">Vypnout zvuk v auto-kolébce</string>
+    <string name="deskdock_audio_title_head">Stolní kolébka</string>
+    <string name="deskdock_audio_summary_on">Zapnout zvuk v doku</string>
+    <string name="deskdock_audio_summary_off">Vypnout zvuk v doku</string>
+
+    <string name="category_vibration_title">Vibrace</string>
+    <string name="vibration_title_head">Vibrace</string>
+    <string name="vibration_summary_head">Nastavit intenzitu vibrací</string>
+    <string name="vibration_title">Intenzita vibrací</string>
+</resources>

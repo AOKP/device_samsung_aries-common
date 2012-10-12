@@ -1,0 +1,25 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string-array name="mdnie_entries">
+    <item>Vypnuto</item>
+    <item>UI režim</item>
+    <item>Video režim</item>
+    <item>Režim teplého videa</item>
+    <item>Režim studeného videa</item>
+    <item>Režim fotoaparátu</item>
+  </string-array>
+  <string-array name="backlight_timeout_entries">
+    <item>Výchozí (1,6 sekund)</item>
+    <item>0,5 sekundy</item>
+    <item>2 sekundy</item>
+    <item>5 sekund</item>
+    <item>10 sekund</item>
+    <item>15 sekund</item>
+    <item>30 sekund</item>
+    <item>Never</item>
+  </string-array>
+  <string-array name="hspa_entries">
+    <item>Pouze UMTS</item>
+    <item>Pouze HSDPA</item>
+    <item>HSDPA + HSUPA</item>
+  </string-array>
+</resources>
