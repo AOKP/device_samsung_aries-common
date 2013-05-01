@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">デバイス設定</string>
+
+    <string name="category_screen_title">スクリーン</string>
+    <string name="color_tuning_title_head">カラーチューニング</string>
+    <string name="color_tuning_summary_head">画面の色味を調整する</string>
+    <string name="color_red_title">赤</string>
+    <string name="color_green_title">緑</string>
+    <string name="color_blue_title">青</string>
+    <string name="color_red_gamma_title">ガンマ(赤)</string>
+    <string name="color_green_gamma_title">ガンマ(緑)</string>
+    <string name="color_blue_gamma_title">ガンマ(青)</string>
+    <string name="mdnie_title_head">mDNIeモード</string>
+    <string name="mdnie_summary_head">mDNIeディスプレイ処理を調整する</string>
+
+    <string name="category_touchkey_title">タッチキー</string>
+    <string name="backlight_timeout_title_head">バックライト点灯時間</string>
+    <string name="backlight_timeout_summary_head">バックライト点灯時間を設定する</string>
+
+    <string name="category_radio_title">ラジオ</string>
+    <string name="hspa_title_head">HSPA</string>
+    <string name="hspa_summary_head">HSDPA/HSUPAを有効にする</string>
+
+    <string name="category_tvout_title">テレビ出力</string>
+    <string name="tvout_enable_head">テレビ出力</string>
+    <string name="tvout_enable_summary_nocable">テレビ出力ケーブルが接続されていません</string>
+    <string name="tvout_enable_summary">テレビ出力ケーブルが接続されました。テレビ出力を有効にしてください</string>
+    <string name="tvout_enable_summary_on">テレビ出力は有効</string>
+    <string name="tvout_system_head">テレビシステム</string>
+    <string name="tvout_system_summary">テレビシステムを設定する</string>
+
+    <string name="category_volume_boost_title">ボリューム</string>
+    <string name="volume_boost_title_head">通話中ボリューム</string>
+    <string name="volume_boost_summary_head">通話中のボリュームをブーストする</string>
+    <string name="boost_rcv_title">イヤフォンボリューム</string>
+    <string name="boost_bt_title">Bluetoothボリューム</string>
+    <string name="boost_spk_title">スピーカーボリューム</string>
+    <string name="boost_hp_title">ヘッドフォンボリューム</string>
+    <string name="mic_rcv_title">イヤフォンマイク</string>
+    <string name="mic_spk_title">スピーカーマイク</string>
+    <string name="mic_hp_title">ヘッドフォンマイク</string>
+    <string name="mic_hp_no_mic_title">ヘッドフォン(マイク無し)マイク</string>
+
+    <string name="category_dock_audio_title">ドックオーディオ</string>
+    <string name="cardock_audio_title_head">カードック</string>
+    <string name="cardock_audio_summary_on">カードックオーディオは有効</string>
+    <string name="cardock_audio_summary_off">カードックオーディオは無効</string>
+    <string name="deskdock_audio_title_head">デスクドック</string>
+    <string name="deskdock_audio_summary_on">デスクドックオーディオは有効</string>
+    <string name="deskdock_audio_summary_off">デスクドックオーディオは無効</string>
+
+    <string name="category_vibration_title">バイブレーション</string>
+    <string name="vibration_title_head">バイブレーション</string>
+    <string name="vibration_summary_head">バイブレーション強度を設定する</string>
+    <string name="vibration_title">バイブレーション強度</string>
+    <string name="vibration_test_title">テスト</string>
+
+    <string name="button_reset_title">リセット</string>
+
+    <!-- Used for activity title. Usually not visible, except on the
+         multi-task screen -->
+    <string name="generic_warning_title">警告</string>
+
+    <!-- Invalid IMEI -->
+    <string name="imei_not_sane_title">警告!</string>
+    <string name="imei_not_sane_message">問題が発生しました。この端末のIMEIは無効です。無効なIMEIはネットワークの問題を引き起こす可能性があり、緊急番号に発信することもできません。</string>
+    <string name="imei_not_sane_ok">OK</string>
+
+</resources>
